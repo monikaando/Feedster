@@ -7,4 +7,4 @@ In this exercise I practiced:
 5. Use the ng-repeat directive
 6. Use the link option withing a directive
 7. Build and use directives in AngularJS 1.x
-<img src="https://res.cloudinary.com/mokaweb/video/upload/v1591561967/Codecademy%20Angular/feedster.mov" alt="Feedster">
+<img src="https://res.cloudinary.com/mokaweb/image/upload/v1591562983/Codecademy%20Angular/feedster.gif" alt="Feedster">
